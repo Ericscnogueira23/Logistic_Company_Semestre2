@@ -36,3 +36,41 @@
 
 # Links dos dados e das informações contidas no projeto ( Indicadores e referências )
 ## <img width="1322" height="743" alt="image" src="https://github.com/user-attachments/assets/948023ec-8057-4a5c-8147-8343e7821628" />
+
+## SPRINT-2
+# ( Ferramentas Utilizadas: CANVAS, EXCELL, POWER BI e o site dos dados adquiridos: Região Metropolitana do vale do paraíba e litoral norte )
+# INTRODUÇÃO ELABORAL do PROJETO lOGISTIC COMPANY SPRINT-2
+## <img width="1470" height="827" alt="image" src="https://github.com/user-attachments/assets/cb95c42d-26a8-493a-98d3-6e6e3654cbde" />
+
+# Objetivos e metas da sprint-2
+## <img width="1466" height="822" alt="image" src="https://github.com/user-attachments/assets/fd7d2311-829d-4613-be3f-59f92a2b86d9" />
+
+# Caracterização territorial
+## <img width="1469" height="824" alt="image" src="https://github.com/user-attachments/assets/f7de7fc1-7e2b-4ce3-8b2b-29a2a4289ff0" />
+
+# CINCO SUB-REGIÕES ESCOLHIDAS
+## <img width="1472" height="823" alt="image" src="https://github.com/user-attachments/assets/6847c87d-f613-4c56-8d27-625d778e2303" />
+
+# Quantidade de habitantes nas determinadas cidades a seguir
+## <img width="1467" height="826" alt="image" src="https://github.com/user-attachments/assets/b83cadb5-bae3-48ff-a48e-5f4bac17db72" />
+
+# A região Metropolitana do Vale do Paraíba e Litoral Norte (RMVPLN) apresenta uma população estimada de 2.609.132 habitantes, distribuída em 39 municípios, demonstrando sua relevância econômica, territorial e logística para o estado de São Paulo.
+## <img width="1315" height="738" alt="image" src="https://github.com/user-attachments/assets/3fc64927-c99e-4e59-886d-76161b94e89b" />
+
+# População das regiões do vale do paraíba
+## <img width="1467" height="826" alt="image" src="https://github.com/user-attachments/assets/24e5ca21-c8b1-455a-b8d2-d44e2e99630a" />
+
+# Porcentagem de sexualidade nas regiões analisadas
+## <img width="1465" height="827" alt="image" src="https://github.com/user-attachments/assets/532858ba-e9a5-4cc9-97d6-abc8845bd098" />
+
+# Contexto estadual
+## <img width="1466" height="822" alt="image" src="https://github.com/user-attachments/assets/8d124e10-ac59-4aea-b4c3-62021e4d9dc6" />
+
+# Dados e breves informações
+## <img width="1462" height="817" alt="image" src="https://github.com/user-attachments/assets/25e04f4d-3f5f-4eeb-880f-cc24c35196de" />
+
+# Links dos dados e das informações contidas no projeto ( Indicadores e referências )
+## <img width="1465" height="827" alt="image" src="https://github.com/user-attachments/assets/363efe39-b61b-48bd-be1d-fcd776e2a77a" />
+
+# Conclusão e Permanento à disposição para quaisquer esclarecimentos, encerramento da apresentação da Sprint-2
+## <img width="1469" height="825" alt="image" src="https://github.com/user-attachments/assets/69bf8fcd-6d5e-439a-840f-c3b53eb18090" />
